@@ -1,10 +1,10 @@
 # Bootstrap blog post template
 
-[Bootstrap blog post template](http://github.com) is a basic HTML template that uses the [Bootstrap](http://getbootstrap.com/)  framework. All key Bootstrap files have been included so you can begin creating layouts as needed.
+[Bootstrap blog post template](https://github.com/russmaxdesign/bootstrap-blog-post-template) is a basic HTML template that uses the [Bootstrap](http://getbootstrap.com/)  framework. All key Bootstrap files have been included so you can begin creating layouts as needed.
 
 ## File structure
 
-[Bootstrap blog post template](http://github.com) uses the following file structure:
+[Bootstrap blog post template](https://github.com/russmaxdesign/bootstrap-blog-post-template) uses the following file structure:
 
 -------------
 
@@ -34,4 +34,4 @@
 	licence.md
 	readme.md
 
-[Responsive Bootstrap template - two columns with right sidebar](http://github.com) was created by [Russ Weakley](https://twitter.com/russmaxdesignmax), [Max Design](http://maxdesign.com.au/). Copyright 2015 Max Design. See LICENCE.md for full details.
+[Bootstrap blog post template](https://github.com/russmaxdesign/bootstrap-blog-post-template) was created by [Russ Weakley](https://twitter.com/russmaxdesignmax), [Max Design](http://maxdesign.com.au/). Copyright 2015 Max Design. See LICENCE.md for full details.
