@@ -34,4 +34,4 @@
 	licence.md
 	readme.md
 
-[Bootstrap blog post template](https://github.com/russmaxdesign/bootstrap-blog-post-template) was created by [Russ Weakley](https://twitter.com/russmaxdesignmax), [Max Design](http://maxdesign.com.au/). Copyright 2015 Max Design. See LICENCE.md for full details.
+[Bootstrap blog post template](https://github.com/russmaxdesign/bootstrap-blog-post-template) was created by [Russ Weakley](https://twitter.com/russmaxdesign), [Max Design](http://maxdesign.com.au/). Copyright 2015 Max Design. See LICENCE.md for full details.
